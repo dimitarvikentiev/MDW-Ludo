@@ -1,0 +1,3 @@
+1. Player class has unnecessary properties. // check for the rest
+2. When I try to log in after some of the users is logged out the program crash.
+3. Have a look for situation when the game is started and 3th user arrives. // may be that user should not be allow to play.

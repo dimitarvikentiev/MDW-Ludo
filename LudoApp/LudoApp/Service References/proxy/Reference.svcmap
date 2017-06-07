@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ffd144c9-d30e-41c7-9893-e03077514483" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/LudoService/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="9bff239a-4901-4c8d-84b8-7d931da06d81" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LudoService/Service1/?disco" />
+    <MetadataFile FileName="item4.xsd" MetadataType="Schema" ID="4493a909-afde-4c22-a77c-95e50ac6f63e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LudoService/Service1/?xsd=xsd4" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="961c2762-24ef-4acb-8277-c4753d54c870" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LudoService/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="876e6b29-b8bb-49f4-acca-78d99a07c261" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LudoService/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="item3.xsd" MetadataType="Schema" ID="b19f5c0e-1879-429e-9130-003181fdf5af" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LudoService/Service1/?xsd=xsd3" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="4678874e-b70a-4fec-a9b7-557b44f4044e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LudoService/Service1/?xsd=xsd2" />
+    <MetadataFile FileName="GameManagerService.wsdl" MetadataType="Wsdl" ID="d5b8610c-00fb-4704-b7a3-8f7d678d87a5" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LudoService/Service1/?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
